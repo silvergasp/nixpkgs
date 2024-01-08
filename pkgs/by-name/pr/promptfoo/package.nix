@@ -5,7 +5,7 @@
 
 buildNpmPackage rec {
   pname = "promptfoo";
-  version = "0.28.0";
+  version = "0.35.0";
 
   src = fetchFromGitHub {
     owner = "promptfoo";
